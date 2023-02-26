@@ -20,7 +20,7 @@ estilização da base do projeto.
 
 ## 📌 Versão
 
-Nós usamos [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/cordel-digita).
+Usei [Git](https://git-scm.com/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/JonathasRosa/cordel-digita).
 
 ## ✒️ Autor
 
